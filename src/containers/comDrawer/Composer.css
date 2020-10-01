@@ -1,0 +1,66 @@
+.viewer-container svg {
+    overflow: visible;
+    margin: 20px;
+}
+.viewer-container .viewer {
+    transform: scale(3);
+    transform-origin: top center;
+}
+#svgdrawer {
+    position:fixed;
+    z-index:-1;
+}
+.Buttonx {
+    background-color: #3e3e3e;
+    border-color: #000000;
+    color: white;
+}
+.Buttonx:hover {
+    background-color: #202020;
+    border-color: #000000;
+    color: white;
+}
+.ButtonS {
+    background-color: #3a198d;
+    border-color: #000000;
+    color: white;
+}
+.ButtonS:hover {
+    background-color: #3F1F8F;
+    border-color: #000000;
+    color: white;
+}
+.Buttonx:active {
+    background-color: rgb(59, 177, 173); /* Green */
+    color: white;
+}
+#s1 {
+    background-color: #24df2a;
+    border-color: #000000;
+    color: black;
+}
+#s2 {
+    background-color: #ce1414;
+    border-color: #000000;
+    color: white;
+}
+#s3 {
+    background-color: #eee719;
+    border-color: #000000;
+    color: black;
+}
+#s4 {
+    background-color: #11eccb;
+    border-color: #000000;
+    color: black;
+}
+#s5 {
+    background-color: #0019bc;
+    border-color: #000000;
+    color: white;
+}
+#s6 {
+    background-color: #9600bc;
+    border-color: #000000;
+    color: white;
+}

@@ -1,0 +1,37 @@
+# Registro
+
+// crear el proyecto
+npx create-react-app myfirstapp
+
+Agregar icono
+
+Agregar fuentes 
+npm install react-bootstrap@0.32.4 --save
+
+Usar React Router
+npm install react-router-dom@4.3.1 --save
+
+Se crea la barra de navegación
+Se crea la carpeta containers
+Home.{js,css}
+Route.js
+
+Une react router y react bootstrap
+npm install react-router-bootstrap --save
+
+
+
+
+
+**  No se crean cuentas ya que en la mainnet tiene un costo
+    crearlas y las dApps lo que hacen es proporcionarte un
+    enlace a una página que sirva para eso
+
+
+
+
+
+
+
+
+
